@@ -54,5 +54,36 @@ the [part](https://cvilleschools.onshape.com/documents/59c81db643eb421ff4169cab/
 
 By running the design, I saw the area where the beam was the weakest **(being at the start of the beam)** which provided suffecient data in re-iterating the design and reinforcing the weakpoints which made the beam bend. The assignement also allowed for many different designs to be tested, with unfortunatly having only **ten** free  tries of which we were only allowed **four**. But by in-depth design reiretation, we should be able to maintain that limit or even less and proceed to 3D printing.
 
+<br>
+<br>
+
+## FEA_Part_3_Simcale_Iterative_Design
+
+<br>
+
+### Assignment Description
+
+The first beam design made was weak at the base which resulted in higher chances of the beam breaking. This version fixes that issue and keeps the weight fairly distributed all along the beam and it improved about 47% which greatly helps prevent breaking of the beam at the top. The bending didn't change a lot but saw a 20% improvement which the first design failed to maintain. The curvy design in the beam along with the partially and hollow diamond cutouts allowed for the weight to be distributed such that it won't easily snap but also be able to maintain a stiff core to prevent breaking as the weight increases.
+
+
+### Part Link 
+
+[The Part](https://cvilleschools.onshape.com/documents/59c81db643eb421ff4169cab/w/d420241a1c9c0f3952def32f/e/aecb3df057d554533ad4fef1)
+
+### Part Image
+
+![FEA Part 3](https://user-images.githubusercontent.com/71407235/222525078-83a5886a-1bcf-4aee-b17a-192de9475d62.PNG)
+
+
+### Reflection
+
+This assignemnt saw some unwanted problems like **simscale** not rendering in the model which gave us a hard time discovering the exact measurements and stress resistance of the beam. We had to compute how much the previous designs and the current design differed to find how strong and improved our iteration was. After printing, the new model wasn't tested for its strength in the competition with other groups as the beam broke accidentally causing us to be disqualified.
+
+
+
+<br>
+<br>
+
+---
 
 
